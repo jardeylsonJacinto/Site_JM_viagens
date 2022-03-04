@@ -10,5 +10,5 @@
 ![jmviagens](https://user-images.githubusercontent.com/93053356/156774261-653ee99a-db27-4fb5-b4e1-8ac11c82b768.jpg)
 ## Autor
 ### Jardeylson jacinto cabral
-Linkedin: https://www.linkedin.com/in/jardeylson-jacinto-769769156
-E-mail: jardeylsong.m@gmail.com
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/jardeylson-jacinto-769769156  
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : jardeylsong.m@gmail.com
